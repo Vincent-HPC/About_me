@@ -1,15 +1,15 @@
 # 黃炳傑 (Vincent Huang)
 
-Education : 國立中山大學 - 資工系
-Personal Website : https://github.com/Vincent-HPC
-Location : 台北市
-E-Mail : pchaung92738@gmail.com
+* Education : 國立中山大學 - 資工系
+* Personal Website : https://github.com/Vincent-HPC
+* Location : 台北市
+* E-Mail : pchaung92738@gmail.com
 
 
 ## 技能
 
 ### HTML/CSS
- * 瞭解HTML語意，能夠撰寫出符合語意的HTML結構。
+* 瞭解HTML語意，能夠撰寫出符合語意的HTML結構。
 * 能夠使用CSS做出網頁排版與RWD響應式設計。
 * 瞭解CSS3的Animate、transform跟transition，並應用在網頁上呈現效果。
 
